@@ -2,7 +2,7 @@
 package com.mycompany.autobus;
 
 public class Autobus {
-
+//Esta es una modificacion
    private String nombreConductor;
    private int nPasajeros;
    private double cantidadDinero = 0;
